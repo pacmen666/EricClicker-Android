@@ -1,4 +1,4 @@
-# Eric Clicker (v1.0)
+# Eric Clicker (v1.1)
 一款专为 Android 设计的隐私保护型自动化连点工具。
 
 ## 项目背景
@@ -19,3 +19,16 @@
 2. 在“应用信息”中开启“允许受限设置”。
 3. 在“无障碍”设置中激活 Eric Clicker。
 4. (可选) 开启开发者选项中的“USB调试（安全设置）”以穿透系统保护。
+
+# Eric Clicker (v1.1) - Now Available! 🚀
+
+The v1.1 update brings a more intuitive and powerful automation experience.
+
+### 🌟 New Features
+- **Visual Feedback**: A real-time red indicator circle now marks exactly where each click occurs, providing instant visual confirmation.
+- **Multi-Point Scheduling**: Supports multiple click targets with independent, high-precision timing (e.g., 13s, 15s, and 18s intervals).
+- **Smart Shutdown**: Enhanced security with the "Screen-Off-to-Stop" feature. Simply lock your phone to instantly terminate all running tasks.
+
+### 🛠 Improvements
+- Optimized coordinate mapping for high-resolution displays.
+- Lightweight overlay implementation for minimal battery impact.
