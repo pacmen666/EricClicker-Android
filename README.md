@@ -22,3 +22,16 @@
 
 ## demo视频展示
 https://b23.tv/YbzlW0o
+
+# Eric Clicker (v1.1) - Now Available! 🚀(see the branch)
+
+The v1.1 update brings a more intuitive and powerful automation experience.
+
+### 🌟 New Features
+- **Visual Feedback**: A real-time red indicator circle now marks exactly where each click occurs, providing instant visual confirmation.
+- **Multi-Point Scheduling**: Supports multiple click targets with independent, high-precision timing (e.g., 13s, 15s, and 18s intervals).
+- **Smart Shutdown**: Enhanced security with the "Screen-Off-to-Stop" feature. Simply lock your phone to instantly terminate all running tasks.
+
+### 🛠 Improvements
+- Optimized coordinate mapping for high-resolution displays.
+- Lightweight overlay implementation for minimal battery impact.
